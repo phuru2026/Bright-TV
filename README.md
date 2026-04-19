@@ -1,5 +1,5 @@
 ## Bright-TV Introduction
-In this project i will be analysing userprofiles and the viewership trends of Bright TV and giving insights based on the outcomes.
+In this project i will be analysing userprofiles and the viewership trends of Bright TV as a junior data analyst and giving insights based on the outcomes.
 ## Project planning description and raw data
 As a junior data analyst I was given two sets of data, being the viewership and user profiles. The raw data was in CSV and i had to separate the tables individually before i can analyze them.This task was done in Microsoft Excel.
 
