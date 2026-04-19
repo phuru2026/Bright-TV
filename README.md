@@ -10,7 +10,7 @@ This task includes Canva Project planning Gantt Chart where each phase of the pr
 After the datasets were separated in Microsoft Excel, they are exported to Databricks for processing. In Databrick, we used data ingestion where the tables are stored in the workspace catalogue and schema. Here we use SQL to answer queries and get insights on the data. In this case of two tables, SQL JOINS are used to combine the tables into one and CASE statements to add other columns.
 
 ## Data Visualization
-Processed data is then exported to Microsoft Excel or Google Looker Studio for visuals and more insights. We use pivot Charts and Dashboards to Data Storytelling.
+Processed data is then exported to Microsoft Excel or Google Looker Studio for visuals and more insights. We use pivot Charts and Dashboards for Data Storytelling.
 
 ## Project Presentation
 Canva or Microsoft PowerPoint are used  to present data to the CEO, where we discuss the improvements that can be made.
