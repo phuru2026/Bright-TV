@@ -1,8 +1,9 @@
 ## Bright-TV Introduction
-. BrightTV is a subscription-based video streaming platform that provides digital content to its users. The company is focused on expanding its customer base and increasing user engagement through data-driven decision-making.
+BrightTV is a subscription-based video streaming platform that provides digital content to its users. The company is focused on expanding its customer base and increasing user engagement through data-driven decision-making.
 
-. For the current financial year, the CEO has set a strategic objective to grow the platform’s subscription base. To support this goal, the Customer Value Management team has been tasked with analyzing user behavior and identifying opportunities to improve both acquisition and retention.
-. In this project i will be analysing userprofiles and the viewership trends of Bright TV as a junior data analyst and giving insights based on the outcomes.
+For the current financial year, the CEO has set a strategic objective to grow the platform’s subscription base. To support this goal, the Customer Value Management team has been tasked with analyzing user behavior and identifying opportunities to improve both acquisition and retention.
+
+In this project i will be analysing userprofiles and the viewership trends of Bright TV as a junior data analyst and giving insights based on the outcomes.
 
 ## Project planning description and raw data
 As a junior data analyst I was given two sets of data, being the viewership and user profiles. The raw data was in CSV and i had to separate the tables individually before I can analyze them.This task was done in Microsoft Excel.
